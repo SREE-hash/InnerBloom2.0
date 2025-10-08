@@ -2,11 +2,13 @@
 langchain
 llama-index
 haystack
+langchain_openai
 
 #For a backend serevr
 fastapi
-unicorn
+uvicorn
 
 #Additional tools
 requests
 python-dotenv
+gunicorn
